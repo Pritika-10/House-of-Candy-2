@@ -10,7 +10,7 @@ The project consists of the following files and directories:
 - **imgs/**: A folder containing images used in the webpage.
 - **README.md**: Documentation for the project.
 
-### Website URL
+## Website URL
 [House of Candy Website](file:///C:/Users/91877/Downloads/Web%20Develoment/House-of-Candy/index.html)
 
 ## Features
