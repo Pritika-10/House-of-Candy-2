@@ -10,9 +10,6 @@ The project consists of the following files and directories:
 - **imgs/**: A folder containing images used in the webpage.
 - **README.md**: Documentation for the project.
 
-## Website URL
-Link - (https://drive.google.com/drive/folders/1iEg2a8CzH-ZUhe7S9paaRMqPD4lnaLKz?usp=sharing)
-
 ## Features
 - **HTML5**: Structured content for the webpage.
 - **CSS3**: Styled elements to enhance user interface.
