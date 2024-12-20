@@ -11,7 +11,7 @@ The project consists of the following files and directories:
 - **README.md**: Documentation for the project.
 
 ## Website URL
-Link - file:///C:/Users/91877/Downloads/Web%20Develoment/House-of-Candy/index.html
+Link - (https://drive.google.com/drive/folders/1iEg2a8CzH-ZUhe7S9paaRMqPD4lnaLKz?usp=sharing)
 
 ## Features
 - **HTML5**: Structured content for the webpage.
